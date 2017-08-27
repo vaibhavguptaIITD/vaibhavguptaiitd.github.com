@@ -2,7 +2,6 @@ baseURL = "http://www.vaibhavgupta.me/"
 languageCode = "en-us"
 title = "Vaibhav Gupta"
 theme = "minimal"
-publishDir = "docs"
 
 [params]
     author = "Vaibhav Gupta"
